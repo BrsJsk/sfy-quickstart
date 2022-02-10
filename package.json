@@ -27,7 +27,7 @@
     "gulp-markdown": "^5.0.1",
     "gulp-run": "^1.7.1",
     "gulp-sass": "^4.0.2",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "gulp-htmlmin": "^5.0.1",
     "yargs": "^15.3.1"
   }
